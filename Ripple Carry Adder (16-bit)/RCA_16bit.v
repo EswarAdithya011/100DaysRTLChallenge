@@ -1,6 +1,6 @@
 `timescale 1ns/1ps
 module RCA_16bit(output cout, output [15:0] sum, input [15:0] a, b);
-    wire [15:0] c;
+    wire [14:0] c;
 
     full_adder F0(a[0], b[0], 1'b0, sum[0], c[0]);
     full_adder F1(a[1], b[1], c[0], sum[1], c[1]);
