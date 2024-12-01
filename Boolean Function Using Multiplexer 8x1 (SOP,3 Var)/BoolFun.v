@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Korrapolu Eswar Adithya
 // 
 // Create Date: 01.12.2024 14:34:36
 // Design Name: 
