@@ -21,12 +21,11 @@
 
 
 module UpCounter(output Qa, Qb, Qc, Qd, input clk,clr);
-wire Qd_bar;
 
     //Logic
     TFlipFlop T0(.Q(Qa), .Qb(), .T(1'b1), .clk(~clk), .rst(clr));
-    TFlipFlop T1(.Q(Qb), .Qb(), .T(Qd_bar && Qa), .clk(~clk), .rst(clr));
+    TFlipFlop T1(.Q(Qb), .Qb(), .T(~Qd && Qa), .clk(~clk), .rst(clr));
     TFlipFlop T2(.Q(Qc), .Qb(), .T(Qa && Qb), .clk(~clk), .rst(clr));
-    TFlipFlop T3(.Q(Qd), .Qb(Qd_bar), .T((Qd && Qa) || (Qa && Qb && Qc)), .clk(~clk), .rst(clr));
+    TFlipFlop T3(.Q(Qd), .Qb(), .T((Qd && Qa) || (Qa && Qb && Qc)), .clk(~clk), .rst(clr));
     
 endmodule
