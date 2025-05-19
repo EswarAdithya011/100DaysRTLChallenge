@@ -1,7 +1,7 @@
 ## Verilog Coding
 Each of the project contains implementation details of each design with RTL's and Test bench. You can refer to simulation, schematic diagrams(.png) and tcl consoles for your references.
 
-![](https://komarev.com/ghpvc/?username=Verilog-HDL)
+![](https://komarev.com/ghpvc/?username=EswarAdithya011)
 
 Tool Used:
 
