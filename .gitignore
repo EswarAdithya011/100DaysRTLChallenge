@@ -1,0 +1,5 @@
+# Ignore temporary files
+*.tmp
+
+# Ignore all README files
+README*
