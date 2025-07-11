@@ -12,7 +12,9 @@
 
 ![Eswar’s GitHub stats](https://github-readme-stats.vercel.app/api?username=EswarAdithya011&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EswarAdithya011&layout=compact&theme=vision-friendly-dark)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EswarAdithya011&theme=tokyonight)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=EswarAdithya011&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Vivado](https://img.shields.io/badge/Vivado-2024.1-blue?logo=xilinx)
