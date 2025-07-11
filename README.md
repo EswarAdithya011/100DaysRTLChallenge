@@ -7,7 +7,7 @@
 ![FPGA Target](https://img.shields.io/badge/Target-Xilinx%20Vivado%202024.1-blue)
 ![Device](https://img.shields.io/badge/Device-Nexys%204%20FPGA-lightgrey)
 ![Language](https://img.shields.io/badge/Language-Verilog%20HDL-yellow)
-![EDA Tools](https://img.shields.io/badge/Tools-ModelSim%2C%20Vivado%2C%20Quartus-blue)
+![EDA Tools](https://img.shields.io/badge/Tools-%2C%20Vivado%202024.1%2C%20-blue)
 ![Use-Case](https://img.shields.io/badge/Usecase-Digital%20Design%20%26%20VLSI-orange)
 
 
