@@ -1,4 +1,4 @@
-# 🔧 Verilog-HDL Projects Repository
+🚀 100 Days of RTL Challenge
 
 Welcome to my **100 Days RTL Design Challenge** repository!  
 This repository contains a comprehensive collection of over 100 Verilog HDL-based digital design implementations ranging from basic gates to advanced system-level modules.
