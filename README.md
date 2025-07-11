@@ -49,21 +49,3 @@ This challenge was self-initiated to practice, organize, and master Verilog HDL 
 | 100 | Infinite Impulse Response (IIR) Filter                      |                |                |
 
 ---
-
-## 📦 Repository Structure
-
-```bash
-Verilog-HDL/
-├── gates/
-├── adders/
-├── subtractors/
-├── multipliers/
-├── counters/
-├── fsm/
-├── filters/
-├── memory/
-├── clock_dividers/
-├── shift_registers/
-├── display_drivers/
-├── testbenches/
-└── README.md
