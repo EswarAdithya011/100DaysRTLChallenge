@@ -10,34 +10,6 @@
 ![EDA Tools](https://img.shields.io/badge/Tools-%20Vivado%202024.1-blue)
 ![Use-Case](https://img.shields.io/badge/Usecase-Digital%20Design%20%26%20VLSI-orange)
 
-![Eswar’s GitHub stats](https://github-readme-stats.vercel.app/api?username=EswarAdithya011&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EswarAdithya011&layout=compact&theme=vision-friendly-dark)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EswarAdithya011&theme=tokyonight)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=EswarAdithya011&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Vivado](https://img.shields.io/badge/Vivado-2024.1-blue?logo=xilinx)
-![ModelSim](https://img.shields.io/badge/Simulator-ModelSim-informational?logo=intel)
-
-
-![RTL Projects](./assets/banner.png)
-
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
-
-
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EswarAdithya011&theme=github_dark)
-
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EswarAdithya011&theme=github_dark)
-
-
-
 Welcome to my **100 Days RTL Design Challenge** repository!  
 This repository contains a comprehensive collection of over 100 Verilog HDL-based digital design implementations ranging from basic gates to advanced system-level modules.
 
