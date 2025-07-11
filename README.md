@@ -33,19 +33,19 @@ This challenge was self-initiated to practice, organize, and master Verilog HDL 
 
 ## 📊 Project Table
 
-| No. | Module Name                                                | HDL Code Link | Testbench Link |
-|-----|-------------------------------------------------------------|----------------|----------------|
-| 1   | AND Gate Behavioral                                         |                |                |
-| 2   | AOI (And-Or-Inverter)                                       |                |                |
-| 3   | CMOS Inverter                                               |                |                |
-| 4   | CMOS NAND Gate                                              |                |                |
-| 5   | CMOS NOR Gate                                               |                |                |
-| 6   | Logic Gates                                                 |                |                |
-| 7   | SR Latch Using NAND Gates                                   |                |                |
-| 8   | SR Latch Using NOR Gates                                    |                |                |
-| 9   | Gated D Latch Using NAND Gates                              |                |                |
-| 10  | Gated SR Latch Using NAND Gates                             |                |                |
-| ... | ...                                                         |                |                |
-| 100 | Infinite Impulse Response (IIR) Filter                      |                |                |
+| No. | Module Name                                               | Module Link |
+|-----|------------------------------------------------------------|-------------|
+| 1   | AND Gate Behavioral                                        |             |
+| 2   | AOI (And-Or-Inverter)                                      |             |
+| 3   | CMOS Inverter                                              |             |
+| 4   | CMOS NAND Gate                                             |             |
+| 5   | CMOS NOR Gate                                              |             |
+| 6   | Logic Gates                                                |             |
+| 7   | SR Latch Using NAND Gates                                  |             |
+| 8   | SR Latch Using NOR Gates                                   |             |
+| 9   | Gated D Latch Using NAND Gates                             |             |
+| 10  | Gated SR Latch Using NAND Gates                            |             |
+| ... | ...                                                        |             |
+| 100 | Infinite Impulse Response (IIR) Filter                     |             |
 
 ---
