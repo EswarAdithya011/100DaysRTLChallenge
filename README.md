@@ -1,8 +1,14 @@
 ### 🚀 100 Days of RTL Challenge
-
 [![100 Days of RTL](https://img.shields.io/badge/Challenge-100%20Days%20of%20RTL-orange)](https://github.com/EswarAdithya011/Verilog-HDL)
-![License MIT](https://img.shields.io/badge/License-MIT-green)
-![Status Completed](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Design Level](https://img.shields.io/badge/Level-Beginner--to--Advanced-blueviolet)
+![Modules](https://img.shields.io/badge/RTL%20Modules-100%2B-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![FPGA Target](https://img.shields.io/badge/Target-Xilinx%20Vivado%202024.1-blue)
+![Device](https://img.shields.io/badge/Device-Nexys%204%20FPGA-lightgrey)
+![Language](https://img.shields.io/badge/Language-Verilog%20HDL-yellow)
+![EDA Tools](https://img.shields.io/badge/Tools-ModelSim%2C%20Vivado%2C%20Quartus-blue)
+![Use-Case](https://img.shields.io/badge/Usecase-Digital%20Design%20%26%20VLSI-orange)
 
 
 Welcome to my **100 Days RTL Design Challenge** repository!  
