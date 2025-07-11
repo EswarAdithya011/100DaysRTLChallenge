@@ -20,68 +20,6 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-// module baugh_wooley_signed_4bit (
-//   input  [3:0] a,   // 4-bit multiplicand
-//   input  [3:0] b,   // 4-bit multiplier
-//   output [7:0] p    // 8-bit product
-// );
-
-//   wire [3:0] pp [3:0]; // Partial products
-
-//   wire s0, c0;
-//   wire s1, c1_0, c1_1;
-//   wire s2, c2_0, c2_1, c2_2;
-//   wire s3, c3_0, c3_1;
-//   wire s4, c4;
-//   wire s5, c5;
-
-//   wire bw_const3 = 1'b1; // Baugh-Wooley constant for bit position 3
-//   wire bw_const7 = 1'b1; // Baugh-Wooley constant for bit position 7
-
-//   // Partial Product Generation (Baugh-Wooley Logic)
-//   assign pp[0][0] = a[0] & b[0];
-//   assign pp[0][1] = a[0] & b[1];
-//   assign pp[0][2] = a[0] & b[2];
-//   assign pp[0][3] = a[0] & (~b[3]);
-
-//   assign pp[1][0] = a[1] & b[0];
-//   assign pp[1][1] = a[1] & b[1];
-//   assign pp[1][2] = a[1] & b[2];
-//   assign pp[1][3] = a[1] & (~b[3]);
-
-//   assign pp[2][0] = a[2] & b[0];
-//   assign pp[2][1] = a[2] & b[1];
-//   assign pp[2][2] = a[2] & b[2];
-//   assign pp[2][3] = a[2] & (~b[3]);
-
-//   assign pp[3][0] = (~a[3]) & b[0];
-//   assign pp[3][1] = (~a[3]) & b[1];
-//   assign pp[3][2] = (~a[3]) & b[2];
-//   assign pp[3][3] = (~a[3]) & (~b[3]);
-
-//   // Summation: Column by Column
-//   assign p[0] = pp[0][0];
-
-//   half_adder HA_col1(.a(pp[0][1]), .b(pp[1][0]), .sum(p[1]), .carry(c0));
-
-//   full_adder FA_col2_0(.a(pp[0][2]), .b(pp[1][1]), .c(pp[2][0]), .sum(s0), .carry(c1_0));
-//   full_adder FA_col2_1(.a(s0), .b(c0), .c(1'b0), .sum(p[2]), .carry(c1_1));
-
-//   full_adder FA_col3_0(.a(pp[0][3]), .b(pp[1][2]), .c(pp[2][1]), .sum(s1), .carry(c2_0));
-//   full_adder FA_col3_1(.a(s1), .b(pp[3][0]), .c(c2_0), .sum(s2), .carry(c2_1));
-//   full_adder FA_col3_2(.a(s2), .b(c1_1), .c(bw_const3), .sum(p[3]), .carry(c2_2));
-
-//   full_adder FA_col4_0(.a(pp[1][3]), .b(pp[2][2]), .c(pp[3][1]), .sum(s3), .carry(c3_0));
-//   full_adder FA_col4_1(.a(s3), .b(c2_2), .c(1'b0), .sum(p[4]), .carry(c3_1));
-
-//   full_adder FA_col5_0(.a(pp[2][3]), .b(pp[3][2]), .c(c3_1), .sum(p[5]), .carry(c4));
-
-//   half_adder HA_col6(.a(pp[3][3]), .b(c4), .sum(p[6]), .carry(c5));
-
-//   half_adder HA_col7(.a(c5), .b(bw_const7), .sum(p[7]), .carry(s0)); // s0 unused
-
-// endmodule
-
 module BWSM(input [3:0] x, y, output [7:0] p);
 
   supply1 one;
