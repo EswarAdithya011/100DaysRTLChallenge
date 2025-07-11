@@ -1,4 +1,4 @@
-🚀 100 Days of RTL Challenge
+### 🚀 100 Days of RTL Challenge
 
 [![100 Days of RTL](https://img.shields.io/badge/Challenge-100%20Days%20of%20RTL-orange)](https://github.com/EswarAdithya011/Verilog-HDL)
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
