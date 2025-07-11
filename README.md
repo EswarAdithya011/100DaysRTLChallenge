@@ -18,10 +18,6 @@ This repository contains a comprehensive collection of over 100 Verilog HDL-base
 
 This challenge was self-initiated to practice, organize, and master Verilog HDL coding with clean, synthesizable RTL. It includes behavioral, structural, dataflow, and mixed modeling styles, complete with testbenches and simulation support. All projects were coded and simulated using Vivado tool.
 
-## 🛠️ Tools Used
-
-- Xilinx Vivado 2024.1
-
 ---
 
 ## 📚 Project Categories
